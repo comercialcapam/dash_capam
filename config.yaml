@@ -1,0 +1,15 @@
+credentials:
+  usernames:
+    jade:
+      email: jade.pereira@ufv.br
+      name: Jade Santiago
+      password: $2b$12$xzCPDKeJR4P5TUqrYt8tOObpYzwKOz4TGaO9coivS7xisTT0FwUMK
+    vanessa:
+      email: jade.pereira@ufv.br
+      name: Vanessa Lopes
+      password: $2b$12$VbtVUx512IMf77uY8WbGne1W4f6CQdu7W/4ozBW5UGE1pf3U9KLKW
+cookie:
+  expiry_days: 30
+  key: nova_chave_de_assinatura_unica2 # Deve ser uma string única e segura
+  name: random_cookie_name
+
